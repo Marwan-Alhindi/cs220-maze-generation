@@ -1,0 +1,153 @@
+.gitignore
+  s_2124518a723d13::t_dcb9f38d97eb3d 1-7
+README.md
+  s_2124518a723d13::t_0f545010a10e8d 1-63
+experiments/make_figures.py
+  s_2124518a723d13::t_deee32699c91b5 1-106
+experiments/results/part2_solvers.csv
+  s_2124518a723d13::t_06ef0a0f43a43f 1-1441
+experiments/run_part1.py
+  s_2124518a723d13::t_006e9d2490e8dc 1-80
+experiments/run_part2.py
+  s_2124518a723d13::t_0c9812a42973c2 1-139
+part1_graph_mazes/configs/experiments/file10_list.json
+  s_2124518a723d13::t_0956a35fc10a22 1-9
+part1_graph_mazes/configs/experiments/file11_list.json
+  s_2124518a723d13::t_9185734b2862e0 1-9
+part1_graph_mazes/configs/experiments/file1_list.json
+  s_2124518a723d13::t_093b0acc60d925 1-9
+part1_graph_mazes/configs/experiments/file1_mat.json
+  s_2124518a723d13::t_ac548ff2b0ed9a 1-9
+part1_graph_mazes/configs/experiments/file2_list.json
+  s_2124518a723d13::t_e4889a491c58e6 1-9
+part1_graph_mazes/configs/experiments/file2_mat.json
+  s_2124518a723d13::t_698cf71f5bb506 1-9
+part1_graph_mazes/configs/experiments/file3_list.json
+  s_2124518a723d13::t_15904346834faf 1-9
+part1_graph_mazes/configs/experiments/file3_mat.json
+  s_2124518a723d13::t_d7dc873a456282 1-9
+part1_graph_mazes/configs/experiments/file4_list.json
+  s_2124518a723d13::t_e1b9a5f0bef61e 1-9
+part1_graph_mazes/configs/experiments/file4_mat.json
+  s_2124518a723d13::t_4cdbaa3e0b7702 1-9
+part1_graph_mazes/configs/experiments/file5_list.json
+  s_2124518a723d13::t_db9dea3ba7b85b 1-10
+part1_graph_mazes/configs/experiments/file5_mat.json
+  s_2124518a723d13::t_d012e51947d092 1-9
+part1_graph_mazes/configs/experiments/file6_list.json
+  s_2124518a723d13::t_58c640097d574c 1-9
+part1_graph_mazes/configs/experiments/file6_mat.json
+  s_2124518a723d13::t_fef710b5bf2d27 1-9
+part1_graph_mazes/configs/experiments/file7_list.json
+  s_2124518a723d13::t_dc618f57caf53f 1-9
+part1_graph_mazes/configs/experiments/file7_mat.json
+  s_2124518a723d13::t_84ba30887a2600 1-9
+part1_graph_mazes/configs/experiments/file8_list.json
+  s_2124518a723d13::t_28e5d9fb48d791 1-9
+part1_graph_mazes/configs/experiments/file8_mat.json
+  s_2124518a723d13::t_ace28d299f8682 1-9
+part1_graph_mazes/configs/experiments/file9_list.json
+  s_2124518a723d13::t_c0d49d09edca46 1-9
+part1_graph_mazes/configs/experiments/file9_mat.json
+  s_2124518a723d13::t_b8a5074e9c9a7d 1-9
+part1_graph_mazes/configs/sample.json
+  s_2124518a723d13::t_aeff937454ec1d 1-9
+part1_graph_mazes/generation/mazeGenerator.py
+  s_2124518a723d13::t_72674e976a94f2 1-73
+part1_graph_mazes/generation/recurBackGenerator.py
+  s_2124518a723d13::t_12f7690814be04 1-64
+part1_graph_mazes/main.py
+  s_2124518a723d13::t_d9862d290d366d 1-129
+part1_graph_mazes/maze/adjListGraph.py
+  s_2124518a723d13::t_584f6d64bcf14a 1-82
+part1_graph_mazes/maze/adjMatGraph.py
+  s_2124518a723d13::t_0d3550ca29cf25 1-138
+part1_graph_mazes/maze/arrayMaze.py
+  s_2124518a723d13::t_0039c1cd9d1028 1-110
+part1_graph_mazes/maze/graph.py
+  s_2124518a723d13::t_e8dc2c82b1b47b 1-130
+part1_graph_mazes/maze/graphMaze.py
+  s_2124518a723d13::t_456059fe43f8f4 1-132
+part1_graph_mazes/maze/maze.py
+  s_2124518a723d13::t_d70467dffc9b89 1-236
+part1_graph_mazes/maze/util.py
+  s_2124518a723d13::t_8b2c7aa67c0fe8 1-86
+part2_3d_mazes/configs/taskA_generation.json
+  s_2124518a723d13::t_467a0c53a72bf7 1-9
+part2_3d_mazes/configs/taskB_solving.json
+  s_2124518a723d13::t_fffa45d693b114 1-9
+part2_3d_mazes/configs/taskC_best_entrance_exit.json
+  s_2124518a723d13::t_cfd1fccb5e24fe 1-8
+part2_3d_mazes/configs/taskD_adversarial_generation.json
+  s_2124518a723d13::t_b19e8bb798dca7 1-9
+part2_3d_mazes/generation/mazeGenerator.py
+  s_2124518a723d13::t_351da8330041f4 1-38
+part2_3d_mazes/generation/primGenerator.py
+  s_2124518a723d13::t_3b516612959bae 1-95
+part2_3d_mazes/generation/recurBackGenerator.py
+  s_2124518a723d13::t_b371b8210b8a99 1-68
+part2_3d_mazes/generation/taskDMazeGenerator.py
+  s_2124518a723d13::t_aff94a0daa81d0 1-161
+part2_3d_mazes/generation/wilsonGenerator.py
+  s_2124518a723d13::t_c03d43f295bede 1-88
+part2_3d_mazes/generatorSelector.py
+  s_2124518a723d13::t_a7cd1e253f31b3 1-53
+part2_3d_mazes/main.py
+  s_2124518a723d13::t_8ad88f861c6f1a 1-215
+part2_3d_mazes/maze/adjListGraph.py
+  s_2124518a723d13::t_3fc80e39707852 1-148
+part2_3d_mazes/maze/graph.py
+  s_2124518a723d13::t_a98068b9c6aa84 1-148
+part2_3d_mazes/maze/maze3D.py
+  s_2124518a723d13::t_ff53249c954647 1-397
+part2_3d_mazes/maze/util.py
+  s_2124518a723d13::t_221ae971044d12 1-186
+part2_3d_mazes/solverSelector.py
+  s_2124518a723d13::t_4482bd29978ac0 1-45
+part2_3d_mazes/solving/mazeSolver.py
+  s_2124518a723d13::t_e46693fea9204a 1-138
+part2_3d_mazes/solving/pledgeSolver.py
+  s_2124518a723d13::t_7b19e249758093 1-83
+part2_3d_mazes/solving/recurBackMazeSolver.py
+  s_2124518a723d13::t_cc23a11e8c603e 1-73
+part2_3d_mazes/solving/taskCMazeSolver.py
+  s_2124518a723d13::t_28869a56ddc6ac 1-90
+part2_3d_mazes/solving/wallFollowingSolver.py
+  s_2124518a723d13::t_400f0dd5101a3d 1-133
+report/abstract.tex
+  s_2124518a723d13::t_25bfd55d78ed97 1-8
+report/body.tex
+  s_2124518a723d13::t_f31d5b073e70ba 1-261
+report/ieee/main.tex
+  s_2124518a723d13::t_02b8e6fea4ebbe 1-44
+report/neurips/main.tex
+  s_2124518a723d13::t_088341b1d23d48 1-44
+report/neurips/neurips_2026.sty
+  s_2124518a723d13::t_d224b6445c7906 1-443
+report/references.bib
+  s_2124518a723d13::t_37708f58342d72 1-160
+requirements.txt
+  s_2124518a723d13::t_cd662a712801dc 1
+experiments/results/part1_representations.csv
+  s_2124518a723d13::t_4059149feea17a 1-111
+part1_graph_mazes/maze/maze_viz.py
+  s_2124518a723d13::t_54308eaa4bd497 1-134
+part2_3d_mazes/maze/maze_viz.py
+  s_2124518a723d13::t_25d56ec4aa42d6 1-279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c84795f34ac76c29c905126bf903428a5c8b5420",
+  "prompts": {},
+  "sessions": {
+    "s_2124518a723d13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07351815-4a89-4464-9ca9-a648fb7a4c90",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Marwan-Alhindi <mfhmarwin@gmail.com>"
+    }
+  }
+}

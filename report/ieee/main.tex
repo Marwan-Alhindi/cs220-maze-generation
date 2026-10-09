@@ -1,0 +1,44 @@
+\documentclass[10pt,journal,compsoc]{IEEEtran}
+
+\usepackage[nocompress]{cite}
+\usepackage{amsmath,amsfonts}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{textcomp}
+\usepackage{stfloats}
+\graphicspath{{../figures/}}
+
+% unnumbered run-in paragraph heading (the class adds the punctuation)
+\setcounter{secnumdepth}{3}
+\newcommand{\para}[1]{\paragraph{#1}}
+
+\begin{document}
+
+\title{Representations, Generators and Solvers for Perfect 3D Mazes: A Comparative Study}
+
+\author{Mrwan~Alhandi%
+\IEEEcompsocitemizethanks{\IEEEcompsocthanksitem M. Alhandi is with the Department of Computer Science.}}
+
+\markboth{CS220 Project Report}{Alhandi: Perfect 3D Mazes: A Comparative Study}
+
+\IEEEtitleabstractindextext{%
+\begin{abstract}
+\input{../abstract}
+\end{abstract}
+
+\begin{IEEEkeywords}
+Maze generation, maze solving, spanning trees, graph representations, wall following, comparative study.
+\end{IEEEkeywords}}
+
+\maketitle
+\IEEEdisplaynontitleabstractindextext
+\IEEEpeerreviewmaketitle
+
+\input{../body}
+
+\bibliographystyle{IEEEtran}
+\bibliography{../references}
+
+\end{document}

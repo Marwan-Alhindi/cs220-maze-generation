@@ -1,0 +1,8 @@
+Perfect mazes are spanning trees of grid graphs, and they are used in games, puzzles and as testbeds for search algorithms.
+Most comparisons of maze algorithms are qualitative and two-dimensional.
+We present a reproducible comparative study covering three layers of the problem: the data structure that stores the maze (wall array, adjacency list, adjacency matrix), the generator (recursive backtracking, Prim, Wilson) and the solver (random depth-first search, wall following, Pledge, multi-source breadth-first search), on 2D and multi-level 3D mazes.
+We formulate wall following in 3D through a fixed rotation order of the six directions, which keeps its termination guarantee.
+We also use a simple solver-aware generator as a stress test.
+Across 1440 solver runs, the adjacency matrix's $O(V)$ neighbour queries make it $37\times$ slower than the list for that operation, and it needs $15\times$ the memory at $10^4$ cells.
+Generators differ by about $5\times$ in dead-end density and up to $7\times$ in path length, and this reverses the solver ranking: breadth-first search explores the fewest cells on corridor mazes and the most on bushy ones.
+The solver-aware generator increases the cells explored by walking solvers by 27--55\%, but not by breadth-first search, which shows that maze difficulty is solver-specific.

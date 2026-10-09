@@ -1,0 +1,44 @@
+\documentclass{article}
+
+% numbered citations
+\PassOptionsToPackage{numbers, compress}{natbib}
+% "preprint" shows the author block (the default track is anonymised for review)
+\usepackage[preprint]{neurips_2026}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{amsmath}
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+\usepackage{graphicx}
+\graphicspath{{../figures/}}
+
+% run-in paragraph heading
+\newcommand{\para}[1]{\paragraph{#1.}}
+
+\title{Representations, Generators and Solvers for Perfect 3D Mazes: A Comparative Study}
+
+\author{%
+  Mrwan Alhandi \\
+  Department of Computer Science \\
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  \input{../abstract}
+\end{abstract}
+
+\input{../body}
+
+\bibliographystyle{unsrtnat}
+\bibliography{../references}
+
+\end{document}
